@@ -7,7 +7,7 @@ Installed and configured Windows Server 2016 Essentials for a non-profit organiz
 
 ## Environments and Technologies Used
 
-- Lenovo TS RS160 E3
+- Lenovo ThinkServer RS160 E3
 
 ## Operating Systems Used
 
