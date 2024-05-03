@@ -1,9 +1,9 @@
 <p align="center">
-<img src="assets/windows-server-logo.png" alt="Windows Server Essenetials 2016" />
+<img src="assets/windows-server-logo.png" alt="Windows Server 2016 Essenetials" />
 </p>
 
 # Windows Server Essentials 2016 Deployment
-Installed and configured Windows Server Essentials 2016 for a non-profit organization, enabling centralized user management and secure access to resources. 
+Installed and configured Windows Server 2016 Essentials for a non-profit organization, enabling centralized user management and secure access to resources. 
 
 ## Environments and Technologies Used
 
