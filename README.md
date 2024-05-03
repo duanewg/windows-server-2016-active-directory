@@ -23,8 +23,10 @@ Installed and configured Windows Server 2016 Essentials for a non-profit organiz
 - Setup server backup
 - Connected client machines usinng the "Connect a Computer" wizard
 
+<!--
 <h2>Architecture Diagram</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+-->
