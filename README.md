@@ -21,7 +21,7 @@ Installed and configured Windows Server 2016 Essentials for a non-profit organiz
 - Create user accounts
 - Create server folders for file sharing
 - Setup server backup
-- Connected client machines usinng the "Connect a Computer" wizard
+- Connected client machines using the "Connect a Computer" wizard
 
 <h2>Architecture Diagram</h2>
 
