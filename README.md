@@ -2,26 +2,26 @@
 <img src="assets/windows-server-logo.png" alt="Windows Server Essenetials 2016" />
 </p>
 
-# Project Title
+# Windows Server Essentials 2016 Deployment
 Installed and configuring Windows Server Essentials 2016 Active Directory for a non-profit organization, enabling centralized user management and secure access to resources. 
 
 ## Environments and Technologies Used
 
-- Item 1
-- Item 2
-- Item 3
+- Lenovo TS RS160 E3
 
 ## Operating Systems Used
 
-- Operating System Name
+- Windows Server 2016 Essentials
+- Windows 10
 
 ## High-Level Deployment and Configuration Steps
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-- Step 5
+- Install the Windows Server Essentials operating system
+- Configure the Windows Server Essentials operating system
+- Create user accounts
+- Create server folders for file sharing
+- Setup server backup
+- Connected client machines usinng the "Connect a Computer" wizard
 
 <h2>Architecture Diagram</h2>
 
