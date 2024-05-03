@@ -3,7 +3,7 @@
 </p>
 
 # Windows Server Essentials 2016 Deployment
-Installed and configured Windows Server Essentials 2016 Active Directory for a non-profit organization, enabling centralized user management and secure access to resources. 
+Installed and configured Windows Server Essentials 2016 for a non-profit organization, enabling centralized user management and secure access to resources. 
 
 ## Environments and Technologies Used
 
